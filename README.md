@@ -1,6 +1,6 @@
 <h1 align="center">Get News App</h1>
 <p align="center">
-An iOS app to retrieve and display the latest headlines from the [News API](https://newsapi.org) 
+An iOS app to retrieve and display the latest headlines from the <a href="https://newsapi.org/">News API</a> 
 </p>
 
 ## Description
